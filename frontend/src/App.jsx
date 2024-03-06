@@ -23,7 +23,7 @@ function App() {
               currentTab == "encrypt"
                 ? "bg-blue-800 text-white hover:bg-blue-700"
                 : "bg-slate-700 text-slate-900 hover:bg-slate-600"
-            } text-sm font-medium rounded-lg px-5 py-2.5 text-center bg-slate-600 text-white`}
+            } text-sm font-medium rounded-lg px-5 py-2.5 text-center text-white`}
           >
             Encrypt
           </button>
@@ -33,7 +33,7 @@ function App() {
               currentTab == "decrypt"
                 ? "bg-blue-800 text-white hover:bg-blue-700"
                 : "bg-slate-700 text-slate-900 hover:bg-slate-600"
-            } text-sm font-medium rounded-lg px-5 py-2.5 text-center bg-slate-600 text-white`}
+            } text-sm font-medium rounded-lg px-5 py-2.5 text-center text-white`}
           >
             Decrypt
           </button>
